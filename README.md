@@ -16,7 +16,7 @@
 - 데이터 값 암호화 저장
    
 --------------------------------------------------------------
-**비디오메모리 사용량 분석**
+**비디오 메모리 사용량 분석**
 
 ![설명](https://raw.github.com/geon99/Portfolio/master/VRAM_Report/vram_reoprt.png)
 
@@ -26,7 +26,7 @@
 - 비 정상적인 메모리 누적을 확인
 
 --------------------------------------------------------------
-**BugTrap 자동 수집**
+**BugTrap 데이터 자동 수집**
 
 ![설명](https://raw.github.com/geon99/Portfolio/master/BugTrap_Report/bug_reoprt.png)
 
