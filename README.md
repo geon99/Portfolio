@@ -1,11 +1,11 @@
- **광대역 지형에서 자연물 오브젝트를 자동으로 생성하는 툴**
+ **광대역 지형에서 자연물 오브젝트를 자동으로 생성하는 툴 (WorldTool_for_Unity)**
 
 ![설명](https://raw.github.com/geon99/Portfolio/master/WorldTool_for_Unity/worldt.png)
  - Unity 기반 툴
  - Worldmachine Tool 에서 생성한 지형 생성 정보를 기반으로 나무와 바위의 분포를 자연스럽게 생성한다.
 
 --------------------------------------------------------------
-**유니티용 게임 데이터 편집툴**
+**유니티용 게임 데이터 편집툴 (DataEdit_for_Unity)**
    
 ![설명](https://raw.github.com/geon99/Portfolio/master/DataEdit_for_Unity/tool%20sc.png)
 
@@ -16,7 +16,7 @@
 - 데이터 값 암호화 저장
    
 --------------------------------------------------------------
-**비디오 메모리 사용량 분석**
+**비디오 메모리 사용량 분석 (VRAM_Report)**
 
 ![설명](https://raw.github.com/geon99/Portfolio/master/VRAM_Report/vram_reoprt.png)
 
@@ -28,7 +28,7 @@
 - 비 정상적인 메모리 누적을 확인
 
 --------------------------------------------------------------
-**BugTrap 데이터 자동 수집**
+**BugTrap 데이터 자동 수집 (BugTrap_Report)**
 
 ![설명](https://raw.github.com/geon99/Portfolio/master/BugTrap_Report/bug_reoprt.png)
 
@@ -43,7 +43,16 @@ BugTrap을 통해서 생성된 오류 정보의 분석은 대량의 데이터를 불편한 수작업으로 할 
 표로 생성된 리포트를 통해서 보다 더 쉽게 분석 하게 되었다.
 
 --------------------------------------------------------------
- **DirectX를 사용하여 C++에서 개발한 자체 제작한 게임 엔진**
+**유니티를 사용하여 개발한 땅따먹기 게임 (Panic)**
+
+![설명](https://raw.github.com/geon99/Portfolio/master/Panic/p-3.png)
+
+ - 개인적으로 작업한 유니티 기반의 땅따먹기 게임 입니다.
+ - 직접 설계 및 UI이미지 작업을 하였습니다. 
+ - 작업 기간 약 2개월
+
+--------------------------------------------------------------
+**DirectX를 사용하여 C++에서 개발한 자체 제작한 게임 엔진**
 
 <img src="https://raw.github.com/geon99/Portfolio/master/MapEdit/mape.png" width=700/>
 
