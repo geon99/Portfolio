@@ -52,7 +52,7 @@ BugTrap을 통해서 생성된 오류 정보의 분석은 대량의 데이터를 불편한 수작업으로 할 
  - 작업 기간 약 2개월
 
 --------------------------------------------------------------
-**DirectX를 사용하여 C++에서 개발한 자체 제작한 게임 엔진**
+**DirectX를 사용하여 C++에서 개발한 자체 제작한 게임 엔진 (MapEdit)**
 
 <img src="https://raw.github.com/geon99/Portfolio/master/MapEdit/mape.png" width=700/>
 
