@@ -1,4 +1,21 @@
- **광대역 지형에서 자연물 오브젝트를 자동으로 생성하는 툴 (WorldTool_for_Unity)**
+**유니티 라이트 테스트**
+
+*라이트맵효과*
+
+![](https://raw.github.com/geon99/Portfolio/master/Unity%20Light%20Test/sc1.png)
+
+--------------------------------------------------------------
+
+*실시간 라이트 효과 (Probe Light)*
+
+![](https://raw.github.com/geon99/Portfolio/master/Unity%20Light%20Test/dsc1.png)
+![](https://raw.github.com/geon99/Portfolio/master/Unity%20Light%20Test/dsc2.png)
+[(동영상 링크)](https://raw.github.com/geon99/Portfolio/master/Unity%20Light%20Test/녹화_2019_02_25_20_39_42_940.mp4)
+
+
+--------------------------------------------------------------
+
+**광대역 지형에서 자연물 오브젝트를 자동으로 생성하는 툴 (WorldTool_for_Unity)**
 
 ![설명](https://raw.github.com/geon99/Portfolio/master/WorldTool_for_Unity/worldt.png)
  - Unity 기반 툴
