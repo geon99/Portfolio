@@ -7,28 +7,28 @@ https://drive.google.com/file/d/1PETnk873ZLtHKYKVUSPQGYHcoLyO-daY/view?usp=shari
 - 마우스 오른쪽 버튼 : 발사체 (오브젝트 파괴)
 
 <img src="https://raw.github.com/geon99/Portfolio/master/Unreal%20Samples/Foliage/foliage.png" width=400/>
-
 - 풀잎 충돌 효과; 캐릭터 또는 동적 오브젝트와 풀잎의충돌 효과 표현  (피직스 컨스트레인트 활용)
 
 
 <img src="https://raw.github.com/geon99/Portfolio/master/Unreal%20Samples/Foliage/fire.png" width=400/>
-
 - 풀잎 발화 효과; 풀잎에 불을 피워 주변으로 번져 나아가는 것을 표현
 
 
 <img src="https://raw.github.com/geon99/Portfolio/master/Unreal%20Samples/Foliage/snow.png" width=400/>
-
 - 눈위 이동 자국 내기: 캐릭터가 눈위를 이동시 눈이 눌려진 효과를 표현, 그리고 동적 오브잭트에 반응
 
 
 <img src="https://raw.github.com/geon99/Portfolio/master/Unreal%20Samples/Foliage/destroy.png" width=400/>
-
 - 오브잭트 파괴 효과: 오브잭트를 충돌 이벤트에 의해 파괴하고 풀잎 또는 눈 지형과 반응
 
 
 <img src="https://raw.github.com/geon99/Portfolio/master/Unreal%20Samples/Foliage/destructible.png" width=400/>
-
 - 오브젝트 파괴 효과: 발사체를 통한 오브젝트 파괴 효과
+
+
+<img src="https://raw.github.com/geon99/Portfolio/master/Unreal%20Samples/Foliage/foliage.png" width=400/>
+- 풀잎 충돌 효과; 캐릭터 또는 동적 오브젝트와 풀잎의충돌 효과 표현  (피직스 컨스트레인트 활용)
+
 
 --------------------------------------------------------------
 
